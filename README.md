@@ -1,4 +1,4 @@
-# 🍽️ Foodie's Restro Project
+# Foodie's Restro Project 🍽️
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql&logoColor=white)
