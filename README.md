@@ -72,13 +72,14 @@ Foodie-s-Restro-Project/
 
 ---
 
-## 👤 Author
-
-**Samir P Nimgade**  
-GitHub: [@blackirron](https://github.com/blackirron)
-
----
-
 ## 📄 License
 
 This project is open source under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Future Scope
+
+- Add a better beach background video on homepage and better alignments on website
+-Add options for Live demo/ subscriptions and browse and about restros
+- Scale across local restros with dedicated login page for restro by name and then the same for each restro
+- Deploy universally for users to book food online from veing near the restros
+- 
