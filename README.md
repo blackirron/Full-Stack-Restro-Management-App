@@ -76,10 +76,15 @@ Foodie-s-Restro-Project/
 
 This project is open source under the [MIT License](https://opensource.org/licenses/MIT).
 
+## Current Restro admin interface
+
+<img width="1187" height="939" alt="image" src="https://github.com/user-attachments/assets/cb4dd9ab-e20c-48f1-8a66-bb176a6abca8" />
+
+
 ## Future Scope
 
 - Add a better beach background video on homepage and better alignments on website
--Add options for Live demo/ subscriptions and browse and about restros
+- Add options for Live demo/ subscriptions and browse and about restros
 - Scale across local restros with dedicated login page for restro by name and then the same for each restro
 - Deploy universally for users to book food online from veing near the restros
-- 
+  
